@@ -1,2 +1,2 @@
-# Jon-Holub---portfolia
+# Jonas Holub
 Modular AI framework in Python for model training, inference via FastAPI, and experiment tracking.
